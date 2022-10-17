@@ -1,9 +1,4 @@
 
-
-### A miner needs a hotkey
-### A hotkey needs a coldkey.
-
-
 ## Did you already create a coldkey and hotkeys?
 
 ### No:
