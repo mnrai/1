@@ -9,7 +9,7 @@
 ### No:
 
 ```bash
-#If the following command is ran it is possible to try to create a new coldkey:```
+#If the following command is ran it is possible to try to create a new coldkey:
 
 btcli new_coldkey
 
